@@ -1,0 +1,8 @@
+primitive types - number, boolean, string, symbol, void, null, undefine
+
+object types - functions, arrays, classes, objects
+
+Why do we care about types
+1) Types are used by TS Compiler to analyze our code for errors
+2) Types allow other engineers to understand what values are flowing around our codebase
+

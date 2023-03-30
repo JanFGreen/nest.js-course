@@ -1,0 +1,3 @@
+type -> Easy way to refer to the different properties + functions that a value has
+
+In TS every value has a TYPE
