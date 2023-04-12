@@ -1,0 +1,5 @@
+any - is a type in TS like number or string
+any - means TS has no idea what this is - can't check for correct property references
+any - We SHOULD AVOID at all costs!!!!
+
+
